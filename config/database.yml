@@ -13,7 +13,7 @@ development:
   encoding: unicode
   database: geoswap_development
   pool: 5
-  username: geoswap
+  username: 
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -39,7 +39,7 @@ test:
   encoding: unicode
   database: geoswap_test
   pool: 5
-  username: geoswap
+  username: 
   password:
 
 production:
@@ -47,5 +47,5 @@ production:
   encoding: unicode
   database: geoswap_production
   pool: 5
-  username: geoswap
+  username: 
   password:
