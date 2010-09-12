@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Geoswap::Application.config.secret_token = 'f7760e43f2e6d384c96f53d4b038050a760af22bdeaa609a2a0cb82e100c27f23823150cde885e2b61199531644fe4695840a9f8dcd6bb04a52557cd016e206f'
+Geoswap::Application.config.secret_token = 'd8708216858aa96654a90b83d751fa83f1a3b81ad621a912962e77fa99dedc99db02f0c0694483bfffb6b1a224cf698c743f9296accf87e108f0028c733d47f8'
